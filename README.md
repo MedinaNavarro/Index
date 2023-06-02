@@ -5,12 +5,12 @@ Nuestra pagina web
 <body bgcolor="black" text="white">
 <center>
 <p>Colegio de Bachilleres del Estado de Michoacan</p><br>
-<p>Plantel Tarimbaro</p>
+  <p>Plantel Tarimbaro</p>
 <br>
 <p>
 </center>
 <table align="center" border="5" width="50%">
-<caption>Mis datos personales</caption>
+  <caption>Felicidades </caption>
 <tr>
 <th>Foto</th><th>Mensaje</th>
 </tr>
